@@ -1,7 +1,7 @@
 .App{
     min-height: calc(100vh - 16px);
     min-width: calc(100vw -16 px);
-    bacground: #0079bf;
+    background: #0079bf;
     padding: 8px;
     display: inline-flex;
     flex-direction: column;
